@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jadm2907/aprendiendo-react/issues"
   },
-  "homepage": "https://github.com/jadm2907/aprendiendo-react#readme"
+  "homepage": "https://github.com/jadm2907/aprendiendo-react#readme",
+  "dependencies": {
+    "canvas-confetti": "^1.9.3"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
 }
